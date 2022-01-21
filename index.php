@@ -4,7 +4,7 @@
     <!-- Primary Meta Tags -->
 <title>Sergey's demo</title>
 <meta name="title" content="Sergey's Demo">
-<meta name="description" content="Flowy is a minimal javascript library to create flowcharts. Use it for automation software, mind mapping tools, programming platforms, and more. Made by Alyssa X.">
+<!-- <meta name="description" content="Flowy is a minimal javascript library to create flowcharts. Use it for automation software, mind mapping tools, programming platforms, and more. Made by Alyssa X."> -->
 
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
